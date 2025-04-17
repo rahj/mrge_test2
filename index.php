@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>MRGE Group Coding Challenge</title>
-</head>
-<body>
+<?php include_once ('./view/parts/header.php') ?>
 
+<div>
+    Note: click the navigation menu above for each User Story Challenge
+</div>
 
-
-</body>
-</html>
+<?php include_once ('./view/parts/footer.php') ?>
