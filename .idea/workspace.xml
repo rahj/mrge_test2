@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2954bf02-9ed2-4013-8c5c-dce35e5b0881" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/sql/tables.txt" afterPath="$PROJECT_DIR$/sql/tables.txt" />
-      <change beforePath="$PROJECT_DIR$/story1/index.php" afterPath="$PROJECT_DIR$/story1/index.php" />
-      <change beforePath="$PROJECT_DIR$/view/parts/header_nav.php" afterPath="$PROJECT_DIR$/view/parts/header_nav.php" />
+      <change beforePath="$PROJECT_DIR$/story1/job-moderator/index.php" afterPath="$PROJECT_DIR$/story1/job-moderator/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,17 +63,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/story1/job-moderator/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="1439">
+              <caret line="113" column="61" lean-forward="false" selection-start-line="113" selection-start-column="61" selection-end-line="113" selection-end-column="61" />
               <folding>
-                <marker date="1744900763949" expanded="true" signature="711:767" ph="SELECT * FRO... emails_jobposts" />
-                <marker date="1744900763949" expanded="true" signature="977:1050" ph="SELECT COUNT... jobposts2" />
-                <marker date="1744900763949" expanded="true" signature="1293:1499" ph="SELECT id as... jobposts2" />
-                <marker date="1744900763949" expanded="true" signature="1293:1530" ph="SELECT id as... jobposts2" />
-                <marker date="1744900763949" expanded="true" signature="1858:2133" ph="..." />
-                <marker date="1744900763949" expanded="true" signature="1953:2122" ph="..." />
-                <marker date="1744900763949" expanded="true" signature="2169:2244" ph="..." />
-                <marker date="1744900763949" expanded="true" signature="2197:2244" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="474:530" ph="SELECT * FRO... emails_jobposts" />
+                <marker date="1744905463049" expanded="true" signature="740:811" ph="SELECT COUNT... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="740:827" ph="SELECT COUNT... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="740:854" ph="SELECT id, e... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="1327:1428" ph="UPDATE emails_jobposts... " />
+                <marker date="1744905463049" expanded="true" signature="1721:1927" ph="SELECT id as... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="1721:1932" ph="SELECT id as... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="1721:2028" ph="SELECT id as... jobposts2" />
+                <marker date="1744905463049" expanded="true" signature="2362:2442" ph="UPDATE jobposts2... " />
+                <marker date="1744905463049" expanded="true" signature="2698:2773" ph="UPDATE jobposts2... " />
+                <marker date="1744905463049" expanded="true" signature="3027:3483" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3122:3472" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3519:3594" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3547:3594" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3607:3633" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3677:3988" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="3702:3963" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="4013:4221" ph="..." />
+                <marker date="1744905463049" expanded="true" signature="4172:4221" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,8 +93,8 @@
       <file leaf-file-name="tables.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sql/tables.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="420">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -321,12 +330,12 @@
       <option name="presentableId" value="Default" />
       <updated>1744830028505</updated>
       <workItem from="1744830029750" duration="11758000" />
-      <workItem from="1744876647490" duration="16406000" />
+      <workItem from="1744876647490" duration="20629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28164000" />
+    <option name="totallyTimeSpent" value="32387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="77" width="1920" height="941" extended-state="6" />
@@ -514,25 +523,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/tables.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="420">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/story1/job-moderator/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="1439">
+          <caret line="113" column="61" lean-forward="false" selection-start-line="113" selection-start-column="61" selection-end-line="113" selection-end-column="61" />
           <folding>
-            <marker date="1744900763949" expanded="true" signature="711:767" ph="SELECT * FRO... emails_jobposts" />
-            <marker date="1744900763949" expanded="true" signature="977:1050" ph="SELECT COUNT... jobposts2" />
-            <marker date="1744900763949" expanded="true" signature="1293:1499" ph="SELECT id as... jobposts2" />
-            <marker date="1744900763949" expanded="true" signature="1293:1530" ph="SELECT id as... jobposts2" />
-            <marker date="1744900763949" expanded="true" signature="1858:2133" ph="..." />
-            <marker date="1744900763949" expanded="true" signature="1953:2122" ph="..." />
-            <marker date="1744900763949" expanded="true" signature="2169:2244" ph="..." />
-            <marker date="1744900763949" expanded="true" signature="2197:2244" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="474:530" ph="SELECT * FRO... emails_jobposts" />
+            <marker date="1744905463049" expanded="true" signature="740:811" ph="SELECT COUNT... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="740:827" ph="SELECT COUNT... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="740:854" ph="SELECT id, e... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="1327:1428" ph="UPDATE emails_jobposts... " />
+            <marker date="1744905463049" expanded="true" signature="1721:1927" ph="SELECT id as... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="1721:1932" ph="SELECT id as... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="1721:2028" ph="SELECT id as... jobposts2" />
+            <marker date="1744905463049" expanded="true" signature="2362:2442" ph="UPDATE jobposts2... " />
+            <marker date="1744905463049" expanded="true" signature="2698:2773" ph="UPDATE jobposts2... " />
+            <marker date="1744905463049" expanded="true" signature="3027:3483" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3122:3472" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3519:3594" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3547:3594" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3607:3633" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3677:3988" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="3702:3963" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="4013:4221" ph="..." />
+            <marker date="1744905463049" expanded="true" signature="4172:4221" ph="..." />
           </folding>
         </state>
       </provider>
