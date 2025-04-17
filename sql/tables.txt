@@ -8,6 +8,7 @@ CREATE TABLE users (
     PRIMARY KEY (id)
 ) ;
 
+
 CREATE TABLE jobposts (
     id int NOT NULL AUTO_INCREMENT,
     userID int NOT NULL,
@@ -16,6 +17,7 @@ CREATE TABLE jobposts (
     PRIMARY KEY (id),
     CONSTRAINT FK_UserJobpost FOREIGN KEY (userID) REFERENCES users(id)
 ) ;
+
 
 CREATE TABLE jobposts2 (
     id int NOT NULL AUTO_INCREMENT,
@@ -27,11 +29,12 @@ CREATE TABLE jobposts2 (
     PRIMARY KEY (id)
 ) ;
 
+
 CREATE TABLE emails_jobposts (
-    jobpost_id int NOT NULL,
     user_email varchar(255) NOT NULL,
     flagged int NOT NULL DEFAULT 0
 ) ;
+
 
 CREATE TABLE users_jobposts (
     user_id int NOT NULL,

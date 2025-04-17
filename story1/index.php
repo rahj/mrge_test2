@@ -15,6 +15,11 @@ if (($_SERVER['REQUEST_METHOD'] == 'POST') && isset($_POST['submit'])) {
     $jobTitle = isset($_POST['jobTitle']) ? filter_var($_POST['jobTitle'], FILTER_SANITIZE_STRING) : '';
     $jobDesc = isset($_POST['jobDesc']) ? filter_var($_POST['jobDesc'], FILTER_SANITIZE_STRING) : '';
 
+
+    //initialize row counts
+    $rowCountJobPost = 0;
+    $rowCountEmailJobPostInsert = 0;
+
     //insert the job posts
     $sth = $pdo->prepare("
         INSERT INTO 
@@ -27,6 +32,7 @@ if (($_SERVER['REQUEST_METHOD'] == 'POST') && isset($_POST['submit'])) {
         ':jobTitle' => $jobTitle,
         ':jobDesc'  => $jobDesc,
     ]);
+    $rowCountJobPost = $sth->rowCount();
 
     //check if the table emails_jobposts already contains the user email
     $sth = $pdo->prepare("
@@ -37,16 +43,35 @@ if (($_SERVER['REQUEST_METHOD'] == 'POST') && isset($_POST['submit'])) {
     $sth->execute([
         ':user_email' => $email,
     ]);
-    $rowCount = $sth->rowCount();
+    $rowCountEmailJobPostSelect = $sth->rowCount();
 
-    if ($rowCount == 0) {
-
+    if ($rowCountEmailJobPostSelect == 0) {
+        $sth = $pdo->prepare("
+            INSERT INTO
+              emails_jobposts (user_email)
+            VALUES
+              (:user_email)
+        ");
+        $sth->execute([
+            ':user_email' => $email,
+        ]);
+        $rowCountEmailJobPostInsert = $sth->rowCount();
     }
 
-
 }
+
 ?>
 <?php include_once ('../view/parts/header.php') ?>
+
+<?php if (($rowCountJobPost > 0) || ($rowCountEmailJobPostInsert > 0)) : ?>
+    <div>
+        <div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
+            Successfully created a new job post!
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    </div>
+<?php endif; ?>
+
 <div class="my-5">
     <div class="container">
         <h4>Create new job post</h4>

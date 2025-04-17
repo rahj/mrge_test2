@@ -2,98 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2954bf02-9ed2-4013-8c5c-dce35e5b0881" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/album-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/album/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/brand/bootstrap-logo-white.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/brand/bootstrap-logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/css/bootstrap.rtl.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/css/bootstrap.rtl.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/js/color-modes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/badges/badges.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/badges/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/blog-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/blog/blog.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/blog/blog.rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/blog/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/breadcrumbs/breadcrumbs.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/breadcrumbs/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/buttons/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/carousel-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/carousel/carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/carousel/carousel.rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/carousel/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cheatsheet-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cheatsheet/cheatsheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cheatsheet/cheatsheet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cheatsheet/cheatsheet.rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cheatsheet/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/checkout-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/checkout/checkout.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/checkout/checkout.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/checkout/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cover/cover.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/cover/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard-rtl/dashboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard-rtl/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard/dashboard.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard/dashboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard/dashboard.rtl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dashboard/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dropdowns/dropdowns.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/dropdowns/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/features/features.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/features/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/features/unsplash-photo-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/features/unsplash-photo-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/features/unsplash-photo-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/footers/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/grid/grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/grid/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/headers/headers.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/headers/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/heroes/bootstrap-docs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/heroes/bootstrap-themes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/heroes/heroes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/heroes/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/jumbotron/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/jumbotrons/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/jumbotrons/jumbotrons.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/list-groups/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/list-groups/list-groups.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/masonry/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/modals/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/modals/modals.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbar-bottom/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbar-fixed/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbar-fixed/navbar-fixed.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbar-static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbar-static/navbar-static.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbars-offcanvas/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbars-offcanvas/navbars-offcanvas.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbars/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/navbars/navbars.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/offcanvas-navbar/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/offcanvas-navbar/offcanvas-navbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/offcanvas-navbar/offcanvas-navbar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/offcanvas/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/pricing/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/pricing/pricing.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/product/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/product/product.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sidebars/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sidebars/sidebars.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sidebars/sidebars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sign-in/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sign-in/sign-in.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/starter-template/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sticky-footer-navbar/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sticky-footer/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-5.3.5-examples/sticky-footer/sticky-footer.css" />
+      <change beforePath="$PROJECT_DIR$/sql/tables.txt" afterPath="$PROJECT_DIR$/sql/tables.txt" />
+      <change beforePath="$PROJECT_DIR$/story1/index.php" afterPath="$PROJECT_DIR$/story1/index.php" />
+      <change beforePath="$PROJECT_DIR$/view/parts/header_nav.php" afterPath="$PROJECT_DIR$/view/parts/header_nav.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,19 +13,69 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mrge_test2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mrge_test2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mrge_test2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mrge_test2: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/story1/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="1579">
+              <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
               <folding>
-                <marker date="1744884275192" expanded="true" signature="787:882" ph="INSERT INTO jobposts2" />
-                <marker date="1744884275192" expanded="true" signature="787:902" ph="INSERT INTO jobposts2" />
-                <marker date="1744884275192" expanded="true" signature="1146:1153" ph="SELECT * FRO... jobposts2" />
-                <marker date="1744884275192" expanded="true" signature="1146:1222" ph="SELECT * FRO... emails_jobposts" />
-                <marker date="1744884275192" expanded="true" signature="1464:1559" ph="..." />
+                <marker date="1744891330370" expanded="true" signature="880:975" ph="INSERT INTO jobposts2" />
+                <marker date="1744891330370" expanded="true" signature="880:995" ph="INSERT INTO jobposts2" />
+                <marker date="1744891330370" expanded="true" signature="1280:1287" ph="SELECT * FRO... jobposts2" />
+                <marker date="1744891330370" expanded="true" signature="1280:1356" ph="SELECT * FRO... emails_jobposts" />
+                <marker date="1744891330370" expanded="true" signature="1567:1668" ph="INSERT INTO jobposts2" />
+                <marker date="1744891330370" expanded="true" signature="2298:2393" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/story1/job-moderator/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
+              <folding>
+                <marker date="1744900763949" expanded="true" signature="711:767" ph="SELECT * FRO... emails_jobposts" />
+                <marker date="1744900763949" expanded="true" signature="977:1050" ph="SELECT COUNT... jobposts2" />
+                <marker date="1744900763949" expanded="true" signature="1293:1499" ph="SELECT id as... jobposts2" />
+                <marker date="1744900763949" expanded="true" signature="1293:1530" ph="SELECT id as... jobposts2" />
+                <marker date="1744900763949" expanded="true" signature="1858:2133" ph="..." />
+                <marker date="1744900763949" expanded="true" signature="1953:2122" ph="..." />
+                <marker date="1744900763949" expanded="true" signature="2169:2244" ph="..." />
+                <marker date="1744900763949" expanded="true" signature="2197:2244" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,8 +84,8 @@
       <file leaf-file-name="tables.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sql/tables.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -156,11 +117,13 @@
         <option value="$PROJECT_DIR$/view/parts/bootstrap_js.php" />
         <option value="$PROJECT_DIR$/view/parts/footer.php" />
         <option value="$PROJECT_DIR$/view/parts/header.php" />
-        <option value="$PROJECT_DIR$/view/parts/header_nav.php" />
-        <option value="$PROJECT_DIR$/sql/tables.txt" />
         <option value="$PROJECT_DIR$/credentials/db.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/view/parts/header_nav.php" />
         <option value="$PROJECT_DIR$/story1/index.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/56ad8586-eb75-43b9-9322-0845dcac265a/console.sql" />
+        <option value="$PROJECT_DIR$/sql/tables.txt" />
+        <option value="$PROJECT_DIR$/story1/job-moderator/index.php" />
       </list>
     </option>
   </component>
@@ -205,6 +168,28 @@
               <item name="mrge_test2" type="b2602c69:ProjectViewProjectNode" />
               <item name="mrge_test2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mrge_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mrge_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="story1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mrge_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mrge_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="story1" type="462c0819:PsiDirectoryNode" />
+              <item name="job-moderator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mrge_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mrge_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mrge_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mrge_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="parts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,6 +206,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mrge_test" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -335,15 +321,16 @@
       <option name="presentableId" value="Default" />
       <updated>1744830028505</updated>
       <workItem from="1744830029750" duration="11758000" />
-      <workItem from="1744876647490" duration="6844000" />
+      <workItem from="1744876647490" duration="16406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18602000" />
+    <option name="totallyTimeSpent" value="28164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="77" width="1920" height="941" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -357,8 +344,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1788793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1788793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21282327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -370,8 +357,37 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42158094" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1788793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -427,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/parts/header_nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-5.3.5-examples/assets/dist/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -472,24 +481,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sql/tables.txt">
+    <entry file="file://$PROJECT_DIR$/view/parts/header_nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="14" column="79" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/56ad8586-eb75-43b9-9322-0845dcac265a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/story1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="1579">
+          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
           <folding>
-            <marker date="1744884275192" expanded="true" signature="787:882" ph="INSERT INTO jobposts2" />
-            <marker date="1744884275192" expanded="true" signature="787:902" ph="INSERT INTO jobposts2" />
-            <marker date="1744884275192" expanded="true" signature="1146:1153" ph="SELECT * FRO... jobposts2" />
-            <marker date="1744884275192" expanded="true" signature="1146:1222" ph="SELECT * FRO... emails_jobposts" />
-            <marker date="1744884275192" expanded="true" signature="1464:1559" ph="..." />
+            <marker date="1744891330370" expanded="true" signature="880:975" ph="INSERT INTO jobposts2" />
+            <marker date="1744891330370" expanded="true" signature="880:995" ph="INSERT INTO jobposts2" />
+            <marker date="1744891330370" expanded="true" signature="1280:1287" ph="SELECT * FRO... jobposts2" />
+            <marker date="1744891330370" expanded="true" signature="1280:1356" ph="SELECT * FRO... emails_jobposts" />
+            <marker date="1744891330370" expanded="true" signature="1567:1668" ph="INSERT INTO jobposts2" />
+            <marker date="1744891330370" expanded="true" signature="2298:2393" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/tables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/story1/job-moderator/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <marker date="1744900763949" expanded="true" signature="711:767" ph="SELECT * FRO... emails_jobposts" />
+            <marker date="1744900763949" expanded="true" signature="977:1050" ph="SELECT COUNT... jobposts2" />
+            <marker date="1744900763949" expanded="true" signature="1293:1499" ph="SELECT id as... jobposts2" />
+            <marker date="1744900763949" expanded="true" signature="1293:1530" ph="SELECT id as... jobposts2" />
+            <marker date="1744900763949" expanded="true" signature="1858:2133" ph="..." />
+            <marker date="1744900763949" expanded="true" signature="1953:2122" ph="..." />
+            <marker date="1744900763949" expanded="true" signature="2169:2244" ph="..." />
+            <marker date="1744900763949" expanded="true" signature="2197:2244" ph="..." />
           </folding>
         </state>
       </provider>
