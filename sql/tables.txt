@@ -1,0 +1,56 @@
+# Tables
+
+CREATE TABLE users (
+    id int NOT NULL AUTO_INCREMENT,
+    firstname varchar(255),
+    lastname varchar(255),
+    email varchar(255),
+    PRIMARY KEY (id)
+) ;
+
+CREATE TABLE jobposts (
+    id int NOT NULL AUTO_INCREMENT,
+    userID int NOT NULL,
+    title varchar(255),
+    description text,
+    PRIMARY KEY (id),
+    CONSTRAINT FK_UserJobpost FOREIGN KEY (userID) REFERENCES users(id)
+) ;
+
+CREATE TABLE jobposts2 (
+    id int NOT NULL AUTO_INCREMENT,
+    email varchar(255) NOT NULL,
+    title varchar(255),
+    description text,
+    published int NOT NULL DEFAULT 0,
+    spam int NOT NULL DEFAULT 0,
+    PRIMARY KEY (id)
+) ;
+
+CREATE TABLE emails_jobposts (
+    jobpost_id int NOT NULL,
+    user_email varchar(255) NOT NULL,
+    flagged int NOT NULL DEFAULT 0
+) ;
+
+CREATE TABLE users_jobposts (
+    user_id int NOT NULL,
+    jobpost_id int NOT NULL
+) ;
+
+CREATE TABLE jobboard_moderators (
+
+) ;
+
+
+# Sample data
+
+INSERT INTO users (
+    firstname, lastname, email
+) VALUES (
+    'Reynaldo',
+    'Hipolito',
+    'rahj.1986@gmail.com'
+) ;
+
+
